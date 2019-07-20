@@ -1,7 +1,8 @@
 ---
 layout: about
+title: Gabriele Corso
+invisible: true
 ---
 
-# Gabriele Corso
 
 Bla bla bla 
