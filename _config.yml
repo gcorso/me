@@ -36,10 +36,10 @@ nav_ext_links:
 
 # Build settings
 markdown: kramdown
-theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
 #sass:
 #    sass_dir: ../_sass
 
