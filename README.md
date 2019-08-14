@@ -1,19 +1,13 @@
 # academic
 
 Academic is a [Jekyll](http://jekyllrb.com/) theme with a focus on simplicity, typography and flexibility.
-I originally designed it for my personal blog during my PhD thesis.
-
 Check out my [personal website](https://gaalcaras.com) or my [blog](https://sociologs.com) to get a better feel for the Academic theme.
 
 ![Academic screenshot](screenshot.png)
 
-**Simplicity**: both in design and configuration, Academic aims to let the writer and its readers focus on the content.
-Almost all of the theme configuration happens in the `_config.yml` file.
+To run the website locally use:
 
-**Typography**: the goal of Academic is to let the author write very long and detailed posts, while being kind to its readers' eyes.
-
-**Flexibility**: Academic can be used to generate different layouts while keeping the same look and feel.
-All features require you to *opt in*, which means that you can either use a very lean `_config.yml` or a very detailed one if you want to use more features.
+bundle exec jekyll serve
 
 ---
 
