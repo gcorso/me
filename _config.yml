@@ -34,6 +34,10 @@ nav_ext_links:
   - name: Android
     url: https://play.google.com/store/apps/dev?id=8130961689792195042&hl=en 
 
+# Google Analytics
+google_analytics: UA-145734277-1
+
+
 # Build settings
 markdown: kramdown
 remote_theme: gaalcaras/academic

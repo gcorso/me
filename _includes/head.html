@@ -9,6 +9,10 @@
   {% else %}
   <title>{{ page.title | append: " | " | default:"" }}{% include _i18n/i18n.html value=site.title %}</title>
   {% endif %}
+  
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 
   {% if page.seo.description %}
   <meta name="description" content="{{ page.seo.description | truncate: 160 }}">
