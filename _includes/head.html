@@ -10,7 +10,7 @@
   <title>{{ page.title | append: " | " | default:"" }}{% include _i18n/i18n.html value=site.title %}</title>
   {% endif %}
   
-  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% if site.google_analytics %}
   {% include analytics.html %}
   {% endif %}
 
