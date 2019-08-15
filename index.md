@@ -1,6 +1,8 @@
 ---
 layout: about
 title: Gabriele Corso
+seotitle: Gabriele Corso
+summary: Hi, my name is Gabriele Corso and I'm Computer Science student at the University of Cambridge
 invisible: true
 ---
 

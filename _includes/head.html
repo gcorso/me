@@ -4,13 +4,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% if page.seo.title %}
-  <title>{{ page.seo.title }}</title>
+  {% if page.seotitle %}
+  <title>{{ page.seotitle }}</title>
   {% else %}
   <title>{{ page.title | append: " | " | default:"" }}{% include _i18n/i18n.html value=site.title %}</title>
   {% endif %}
   
-  {% if site.google_analytics %}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
 
