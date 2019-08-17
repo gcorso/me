@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android Academy"
-summary: "A template for an Android educational app, use it and you will only need to focus on the contents of your courses in order to quickly launch your app idea."
+summary: "A template for an Android educational app, use it and you will only need to focus on the contents of your courses in order to quickly launch your app idea"
 date:   2018-07-19 22:14:43 +0100
 categories: android
 ---
