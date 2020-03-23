@@ -32,6 +32,6 @@ The numbers in the topic names follow the order in the book's chapters:
  - [42 Client-server model](https://github.com/gcorso/CS-A-level/raw/master/notes/42%20Client-server%20model.pdf)
  - [43 - 44 Relational Databases](https://github.com/gcorso/CS-A-level/raw/master/notes/43%20-%2044%20Relational%20Databases.pdf)
  - [45 Big data](https://github.com/gcorso/CS-A-level/raw/master/notes/45%20Big%20data.pdf)
- - [46 - 47 Functional programmin](https://github.com/gcorso/CS-A-level/raw/master/notes/46%20-%2047%20Functional%20programmin.pdf)
+ - [46 - 47 Functional programming](https://github.com/gcorso/CS-A-level/raw/master/notes/46%20-%2047%20Functional%20programming.pdf)
 
 You can also find all the files on [GitHub](https://github.com/gcorso/CS-A-level). All errors are (almost certainly) mine, feel free to point them out by opening a pull request (on the ERRATA file) or adding issues on GitHub.
