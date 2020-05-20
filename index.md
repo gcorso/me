@@ -8,7 +8,7 @@ invisible: true
 
 I am an undergraduate student in Computer Science at the *University of Cambridge* currently researching the field of *Graph Representation Learning*.
 
-I have recently published an [article](https://arxiv.org/abs/2004.05718) of the expressivity of Graph Neural Networks, where we generalise previous theoretical results to continuous feature spaces and propose the *Principal Neighbourhood Aggregation*, an empirically powerful aggregator.
+I have recently published an [article](https://arxiv.org/abs/2004.05718) on the expressivity of Graph Neural Networks, where we generalise previous theoretical results to continuous feature spaces and propose the *Principal Neighbourhood Aggregation*, an empirically powerful aggregator.
 
 Last summer, I interned at *Alchera Technologies* where I researched neural network architectures for spatio-temporal graph-structured data (such as roads traffic prediction). 
 
